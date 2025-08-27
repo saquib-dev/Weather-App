@@ -1,0 +1,5 @@
+{
+  "name": "React Weather App",
+  "description": "A clean, modern weather application that provides current weather conditions and a 7-day forecast. It is PWA-ready and includes error handling.",
+  "requestFramePermissions": []
+}
